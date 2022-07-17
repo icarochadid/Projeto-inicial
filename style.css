@@ -103,7 +103,7 @@ main {
 }
 
 main > img {
-    min-width: 100%;
+    min-width: 70%;
 }
  main h1 {
     color: var(--cor05);
@@ -124,7 +124,7 @@ img {
     margin: auto;
 } 
 img#pequena{
-    max-width: 350px;
+    max-width: 250px;
     
 } 
 
